@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:40
+#EXTINF:40.000000,
+https://storage.360buyimg.com/image-public/202601/16643b146c0afec560f9311ed2b8a652.png
+#EXTINF:40.000000,
+https://storage.360buyimg.com/image-public/202601/60d60ed5f993a4bbdcff29b479ef9ab1.png
+#EXTINF:40.000000,
+https://storage.360buyimg.com/image-public/202601/9bc0c762473201a2c58616d4d21d5e20.png
+#EXTINF:40.000000,
+https://storage.360buyimg.com/image-public/202601/0dad6b237d104f99ae19b051b621ecd5.png
+#EXTINF:34.840000,
+https://storage.360buyimg.com/image-public/202601/cb29b6d98bac8dd3d43a856455d12bde.png
+#EXT-X-ENDLIST
