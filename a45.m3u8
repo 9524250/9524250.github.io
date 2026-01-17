@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:41
+#EXTINF:40.023222,
+https://gamer.qpic.cn/2026/01/18_479447e2a874e73f4a1c04db8965ad8b.png
+#EXTINF:40.000000,
+https://gamer.qpic.cn/2026/01/18_23760d195be8b7d2c2ade2fb61a4cb61.png
+#EXTINF:40.000000,
+https://gamer.qpic.cn/2026/01/18_e10fc5c8ac2d2cc11d3894da9614ad50.png
+#EXTINF:40.000000,
+https://gamer.qpic.cn/2026/01/18_7ccbef6f5a441603edbf2ec8647e289b.png
+#EXTINF:27.720000,
+https://gamer.qpic.cn/2026/01/18_4161f47bd1887ec248d59ffa7076a376.png
+#EXT-X-ENDLIST
